@@ -18,3 +18,6 @@ Here are some ideas to get you started:
 [![VS Code](https://img.shields.io/badge/IDE-VSCode-%23007ACC?style=flat-square&logo=Visual-studio-code)](https://code.visualstudio.com/)
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=sjin1105&show_icons=true">
+
+- 🔧 컨테이너 생태계인 **Docker** 와 **Kubernetes**를 다뤄요.
+- 💬 프로그래밍 언어로는 **Python / C** 등을 다루고 있어요.

@@ -16,9 +16,10 @@
 <h3 align="center">💡 My Most Used Languages 💡</h3>
 <p align="center">
   <a href="https://github.com/sjin1105">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=sjin1105&show_icons=true">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=sjin1105&show_icons=true">
   </a>
 </p>
+
 <h3 align="center">💡 My Git Stats 💡</h3>
 <p align="center">
   <a href="https://github.com/${깃닉네임}">

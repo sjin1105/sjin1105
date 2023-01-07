@@ -4,8 +4,8 @@
 
 [![Windows OS](https://img.shields.io/badge/Windows-11-%23007ACC?style=flat-square&logo=windows)](https://insider.windows.com/en-us/insidewindows11)
 [![VS Code](https://img.shields.io/badge/IDE-VSCode-%23007ACC?style=flat-square&logo=Visual-studio-code)](https://code.visualstudio.com/)
-
-<p align="center">Connect to me
+<h3 align="center"> 🧸 Me 🧸 </h3>
+<p align="center">
   <a href="mailto:sjin110550@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=viliketh1s98@naver.com"/</a>
 </p>
 

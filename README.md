@@ -2,11 +2,8 @@
 
 - 저는 'sjin1105' 입니다. 😃
 
-[![Windows OS](https://img.shields.io/badge/Windows-11-%23007ACC?style=flat-square&logo=windows)]()
-[![VS Code](https://img.shields.io/badge/IDE-VSCode-%23007ACC?style=flat-square&logo=Visual-studio-code)](https://code.visualstudio.com/)
 <p align="center">
   <a href="mailto:sjin110550@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=viliketh1s98@naver.com"</a>
-  &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp&nbsp&nbsp&nbsp
   <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/IDE-VSCode-%23007ACC?style=flat-square&logo=Visual-studio-code"</a>
   <a href="https://insider.windows.com/en-us/insidewindows11"><img src="https://img.shields.io/badge/IDE-VSCode-%23007ACC?style=flat-square&logo=Visual-studio-code"</a>
 <h3 align="center">🛠 Tech Stack 🛠</h3>

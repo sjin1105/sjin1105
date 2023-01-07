@@ -22,8 +22,8 @@
 
 <h3 align="center">💡 My Git Stats 💡</h3>
 <p align="center">
-  <a href="https://github.com/${깃닉네임}">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sjin1105&layout=compact&show_icons=true&show_owner=true&hide_title=false&theme=nord&hide=html" />
+  <a href="https://github.com/sjin1105">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sjin1105&layout=compact&show_icons=true&show_owner=true&hide_title=false&theme=nord" />
   </a>
 </p>
 

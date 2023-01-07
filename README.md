@@ -13,17 +13,17 @@
 [![Windows OS](https://img.shields.io/badge/Windows-11-%23007ACC?style=flat-square&logo=windows)](https://insider.windows.com/en-us/insidewindows11)
 [![VS Code](https://img.shields.io/badge/IDE-VSCode-%23007ACC?style=flat-square&logo=Visual-studio-code)](https://code.visualstudio.com/)
 
-<h3 align="center">💡 My Most Used Languages 💡</h3>
-<p align="center">
+<h3 align="left">💡 My Most Used Languages 💡</h3>
+<p align="left">
   <a href="https://github.com/sjin1105">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=sjin1105&show_icons=true">
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=sjin1105&show_icons=true">
   </a>
 </p>
 
-<h3 align="center">💡 My Git Stats 💡</h3>
-<p align="center">
+<h3 align="right">💡 My Git Stats 💡</h3>
+<p align="right">
   <a href="https://github.com/${깃닉네임}">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sjin1105&layout=compact&show_icons=true&show_owner=true&hide_title=false&theme=nord&hide=html" />
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sjin1105&layout=compact&show_icons=true&show_owner=true&hide_title=false&theme=nord&hide=html" />
   </a>
 </p>
 

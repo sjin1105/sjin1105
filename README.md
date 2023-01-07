@@ -45,7 +45,7 @@
   - **CI**(Jenkins)
   - **CD**(ArgoCD)
 
-## 진행했던(중인) 프로젝트 목록입니다.
+## 프로젝트 목록입니다.
 
 
 | 🔭 **Technology**      | 🚀 **Projects**                         |

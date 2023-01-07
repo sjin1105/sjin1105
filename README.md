@@ -2,13 +2,12 @@
 
 - 저는 'sjin1105' 입니다. 😃
 
-<h3 align="center">🛠 Tech Stack 🛠</h3>
-
-
 [![Windows OS](https://img.shields.io/badge/Windows-11-%23007ACC?style=flat-square&logo=windows)](https://insider.windows.com/en-us/insidewindows11)
 [![VS Code](https://img.shields.io/badge/IDE-VSCode-%23007ACC?style=flat-square&logo=Visual-studio-code)](https://code.visualstudio.com/)
 
-<p align="center"> Techs that I've used at least once </p>
+<h3 align="center">🛠 Tech Stack 🛠</h3>
+
+<p align="center"> Techs that I've used </p>
 
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"></a>&nbsp 

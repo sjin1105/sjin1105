@@ -17,7 +17,7 @@
   <a href="#"><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"></a>&nbsp 
   <a href="#"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"></a>&nbsp 
   <a href="#"><img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white></a>&nbsp 
-  <a href="#"><img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"></a>&nbsp 
+  <a href="#"><img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp 
   <a href="#"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"></a>&nbsp 
   <br>
   <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"></a>&nbsp 

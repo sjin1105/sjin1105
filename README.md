@@ -3,7 +3,7 @@
 - 저는 'sjin1105' 입니다. 😃
 
 <p align="center">
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsjin1105&count_bg=%2300F3FF&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"/></a>
+  <a href="#"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsjin1105&count_bg=%2300F3FF&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"/></a>
   <a href="mailto:sjin110550@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"></a>&nbsp
   <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/IDE-VSCode-%23007ACC?style=flat-square&logo=Visual-studio-code&logoColor=white"></a>&nbsp 
   <a href="https://insider.windows.com/en-us/insidewindows11"><img src="https://img.shields.io/badge/Window-11-%23007ACC?style=flat-square&logo=windows&logoColor=white"></a>&nbsp 

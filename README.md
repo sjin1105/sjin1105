@@ -12,6 +12,7 @@
 
 [![Windows OS](https://img.shields.io/badge/Windows-11-%23007ACC?style=flat-square&logo=windows)](https://insider.windows.com/en-us/insidewindows11)
 [![VS Code](https://img.shields.io/badge/IDE-VSCode-%23007ACC?style=flat-square&logo=Visual-studio-code)](https://code.visualstudio.com/)
+
 <h3 align="center">💡 My Most Used Languages 💡</h3>
 <p align="center">
   <a href="https://github.com/sjin1105">
@@ -24,15 +25,6 @@
     <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sjin1105&layout=compact&show_icons=true&show_owner=true&hide_title=false&theme=nord&hide=html" />
   </a>
 </p>
-
-
-
-
-
-
-
-
-
 
 - 🔧 컨테이너 생태계인 **Docker** 와 **Kubernetes**를 다룰수 있습니다.
 - 💬 프로그래밍 언어로는 **Python / C** 등을 쓸수 있습니다.

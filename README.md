@@ -2,7 +2,7 @@
 
 - 저는 'sjin1105' 입니다 😃.
 
-## 진행했던(중인) 프로젝트 목록이에요
+## 진행했던(중인) 프로젝트 목록입니다.
 
 
 | 💻 **Technology**      | 🚀 **Projects**                                                                 |
@@ -13,10 +13,10 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=sjin1105&show_icons=true">
 
-- 🔧 컨테이너 생태계인 **Docker** 와 **Kubernetes**를 다뤄요.
-- 💬 프로그래밍 언어로는 **Python / C** 등을 다루고 있어요.
-- ✔  활용할 줄 아는 프레임워크는 **Python - Django**가 있어요.
-- 🔎 그 이외로는 사용 가능한 분류로는 다음과 같아요.
+- 🔧 컨테이너 생태계인 **Docker** 와 **Kubernetes**를 다룰수 있습니다.
+- 💬 프로그래밍 언어로는 **Python / C** 등을 쓸수 있습니다.
+- ✔  활용할 줄 아는 프레임워크는 **Python - Django**가 있습니다..
+- 🔎 그 이외로는 사용 가능한 분류로는 다음과 같습니다..
   - **자동화**(Ansible, Vagrant)
   - **CI**(Jenkins)
   - **CD**(ArgoCD)

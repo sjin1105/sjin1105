@@ -3,7 +3,7 @@
 ### Hello 👋
 
 
-- 저는 'sjin1105' 입니다. 😃
+- 저는 DevOps Enginer를 꿈꾸는 'sjin1105' 입니다. 😃
 
 <p align="center">
   <a href="#"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsjin1105&count_bg=%2300F3FF&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"/></a>&nbsp

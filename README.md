@@ -7,8 +7,7 @@
 
 | 💻 **Technology**      | 🚀 **Projects**                                                                 |
 |----------------------- | -------------------------------------------------------------------------------- |
-
-[![Cert-Manager+nginx-ingress+longhorn.md](https://img.shields.io/static/v1?label=&message=Cert-Manager+nginx-ingress+longhorn.md&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://gist.github.com/taking/2911bdb4d11839cff58cb96b601e9caa)
+| [![Golang](https://img.shields.io/static/v1?label=&message=Golang&color=7FD6EA&logo=go&logoColor=FFFFFF)](https://golang.org/)                  | [![Gedge GM-Center](https://img.shields.io/static/v1?label=&message=2021~2022_Griffin-Edge_GM-CENTER&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/gedge-platform/gm-center/)             
 
 <h3 align="center">💡 My Most Used Languages 💡</h3>
 <p align="center">

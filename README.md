@@ -2,7 +2,11 @@
 
 - 저는 'sjin1105' 입니다 😃.
 
-<img src="https://img.shields.io/badge/${python}-${색상}?style=${뱃지스타일}&logo=${텍스트}&logoColor=${텍스트 색상}"/></a>&nbsp
+<p align="center">
+  <a href="https://github.com/sjin1105">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sjin1105&layout=compact&show_icons=true&show_owner=true&hide_title=false&theme=nord" />
+  </a>
+</p>
 
 ## 진행했던(중인) 프로젝트 목록입니다.
 

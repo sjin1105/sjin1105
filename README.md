@@ -15,8 +15,8 @@
 <p align="center">
 <a href="https://github.com/sjin1105">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=sjin1105&show_icons=true">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sjin1105&layout=compact&show_icons=true&show_owner=true&hide_title=false&theme=nord&hide=html" />
 </a>
+ <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sjin1105&layout=compact&show_icons=true&show_owner=true&hide_title=false&theme=nord&hide=html" />
 </p>
 - 🔧 컨테이너 생태계인 **Docker** 와 **Kubernetes**를 다룰수 있습니다.
 - 💬 프로그래밍 언어로는 **Python / C** 등을 쓸수 있습니다.

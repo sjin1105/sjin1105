@@ -8,6 +8,8 @@
   <a href="mailto:sjin110550@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"></a>&nbsp
   <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/IDE-VSCode-%23007ACC?style=flat-square&logo=Visual-studio-code&logoColor=white"></a>&nbsp 
   <a href="https://insider.windows.com/en-us/insidewindows11"><img src="https://img.shields.io/badge/Window-11-%23007ACC?style=flat-square&logo=windows&logoColor=white"></a>&nbsp 
+</p>
+
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
 <p align="center"> Techs that I've used </p>

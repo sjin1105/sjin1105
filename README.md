@@ -29,7 +29,9 @@
   <a href="#"><img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
   <a href="#"><img src="https://img.shields.io/badge/Vagrant-1868F2?style=flat-square&logo=Vagrant&logoColor=white"/></a>&nbsp 
 </p>
+
 <br>
+
 - 🔧 컨테이너 생태계인 **Docker** 와 **Kubernetes**를 다룰수 있습니다.
 - 💬 프로그래밍 언어로는 **Python / C** 등을 쓸수 있습니다.
 - ✔  활용할 줄 아는 프레임워크는 **Python - Django**가 있습니다

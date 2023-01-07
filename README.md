@@ -14,22 +14,22 @@
 
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"></a>&nbsp 
-  <a href="#"><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
-  <a href="#"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/></a>&nbsp 
-  <a href="#"><img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp 
-  <a href="#"><img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp 
-  <a href="#"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>&nbsp 
+  <a href="#"><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"></a>&nbsp 
+  <a href="#"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"></a>&nbsp 
+  <a href="#"><img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white></a>&nbsp 
+  <a href="#"><img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"></a>&nbsp 
+  <a href="#"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"></a>&nbsp 
   <br>
-  <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/></a>&nbsp 
-  <a href="#"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>&nbsp 
-  <a href="#"><img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/></a>&nbsp 
-  <a href="#"><img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=Argo&logoColor=white"/></a>&nbsp 
-  <a href="#"><img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=Ansible&logoColor=white"/></a>&nbsp
+  <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"></a>&nbsp 
+  <a href="#"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"></a>&nbsp 
+  <a href="#"><img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"></a>&nbsp 
+  <a href="#"><img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=Argo&logoColor=white"></a>&nbsp 
+  <a href="#"><img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=Ansible&logoColor=white"></a>&nbsp
   <br>
-  <a href="#"><img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat-square&logo=Raspberry Pi&logoColor=white"/></a>&nbsp 
-  <a href="#"><img src="https://img.shields.io/badge/html5-11B48A?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp 
-  <a href="#"><img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
-  <a href="#"><img src="https://img.shields.io/badge/Vagrant-1868F2?style=flat-square&logo=Vagrant&logoColor=white"/></a>&nbsp 
+  <a href="#"><img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat-square&logo=Raspberry Pi&logoColor=white"></a>&nbsp 
+  <a href="#"><img src="https://img.shields.io/badge/html5-11B48A?style=flat-square&logo=HTML5&logoColor=white"></a>&nbsp 
+  <a href="#"><img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"></a>&nbsp 
+  <a href="#"><img src="https://img.shields.io/badge/Vagrant-1868F2?style=flat-square&logo=Vagrant&logoColor=white"></a>&nbsp 
 </p>
 
 <br>

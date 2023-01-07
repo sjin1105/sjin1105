@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=350&text=[%20Sjin1105%20]&desc=DevOps%20Enginer&descSize=35&descAlignY=20&descAlign=22&fontAlign=35&fontAlignY=50&color=0:006494,100:1D1E23&fontColor=FFFFFF&fontSize=90&stroke=FFFFFF&strokeWidth=1)
+![header](https://capsule-render.vercel.app/api?type=waving&height=350&text=[%20jin1105%20]&desc=DevOps%20Enginer&descSize=35&descAlignY=20&descAlign=22&fontAlign=35&fontAlignY=50&color=0:006494,100:1D1E23&fontColor=FFFFFF&fontSize=90&stroke=FFFFFF&strokeWidth=1)
 
 ### Hello 👋
 

@@ -2,7 +2,7 @@
 
 - 저는 'sjin1105' 입니다 😃.
 
-<p align="center">
+<p align="right">
   <a href="https://github.com/sjin1105">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sjin1105&layout=compact&show_icons=true&show_owner=true&hide_title=false&theme=nord&hide=html" />
   </a>

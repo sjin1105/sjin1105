@@ -9,7 +9,7 @@
 |----------------------- | -------------------------------------------------------------------------------- |
 | [![Kubernetes](https://img.shields.io/static/v1?label=&message=Kubernetes&color=053067&logo=Kubernetes&logoColor=FFFFFF)](https://kubernetes.io/)                  | [![Gedge GM-Center](https://img.shields.io/static/v1?label=&message=2021~2022_Griffin-Edge_GM-CENTER&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/gedge-platform/gm-center/)             
 | [![Python](https://img.shields.io/static/v1?label=&message=Python&color=3C78A9&logo=python&logoColor=FFFFFF)](https://www.python.org/)          | [![2018 graduate assignment in PNU-CSE](https://img.shields.io/static/v1?label=&message=2018_graduate-assignment&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/taking/TeamClear)                                              
-| [![C](https://img.shields.io/static/v1?label=&message=C&color=3C78A9&logo=C&logoColor=FFFFFF)]          | [![2018 graduate assignment in PNU-CSE](https://img.shields.io/static/v1?label=&message=2018_graduate-assignment&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/taking/TeamClear) 
+| ![C](https://img.shields.io/static/v1?label=&message=C&color=3C78A9&logo=C&logoColor=FFFFFF)          | [![2018 graduate assignment in PNU-CSE](https://img.shields.io/static/v1?label=&message=2018_graduate-assignment&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/taking/TeamClear) 
 
 <h3 align="center">💡 My Most Used Languages 💡</h3>
 <p align="center">

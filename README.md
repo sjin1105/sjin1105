@@ -24,7 +24,9 @@
     <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sjin1105&layout=compact&show_icons=true&show_owner=true&hide_title=false&theme=nord&hide=html" />
   </a>
 </p>
-<p>
+
+
+
 - 🔧 컨테이너 생태계인 **Docker** 와 **Kubernetes**를 다룰수 있습니다.
 - 💬 프로그래밍 언어로는 **Python / C** 등을 쓸수 있습니다.
 - ✔  활용할 줄 아는 프레임워크는 **Python - Django**가 있습니다
@@ -32,7 +34,7 @@
   - **자동화**(Ansible, Vagrant)
   - **CI**(Jenkins)
   - **CD**(ArgoCD)
-</p>
+
 
 <!--
 - 🔭 I’m currently working on ...

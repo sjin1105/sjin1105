@@ -21,4 +21,8 @@ Here are some ideas to get you started:
 
 - 🔧 컨테이너 생태계인 **Docker** 와 **Kubernetes**를 다뤄요.
 - 💬 프로그래밍 언어로는 **Python / C** 등을 다루고 있어요.
-- ✔  활용할 줄 아는 프레임워크는 **Django**가 있어요.
+- ✔  활용할 줄 아는 프레임워크는 **Python - Django**가 있어요.
+- 🔎 그 이외로는 사용 가능한 분류로는 다음과 같아요.
+  - **자동화**(Ansible)
+  - **CI**(Github Action, Gitlab CI)
+  - **CD**(ArgoCD)

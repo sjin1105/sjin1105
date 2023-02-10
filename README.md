@@ -11,7 +11,6 @@
   <a href="https://insider.windows.com/en-us/insidewindows11"><img src="https://img.shields.io/badge/Window-11-%23007ACC?style=flat-square&logo=windows&logoColor=white"></a>&nbsp 
   <a href="https://ubuntu.com/"><img alt="Ubuntu package" src="https://img.shields.io/ubuntu/v/ubuntu-wallpapers/focal?color=%23E95420&label=Ubuntu&logo=Ubuntu&logoColor=white"></a>&nbsp
 </p>
-    <img alt="Ubuntu package" src="https://img.shields.io/ubuntu/v/ubuntu-wallpapers/focal?color=%23E95420&label=Ubuntu&logo=Ubuntu&logoColor=white">
     
 <p align="center">
   <a href="mailto:sjin110550@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"></a>&nbsp

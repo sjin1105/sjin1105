@@ -14,7 +14,7 @@
     
 <p align="center">
   <a href="mailto:sjin110550@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"></a>&nbsp
-  <a href="https://sjin110550.duckdns.org"><img src="https://img.shields.io/static/v1?label=&message=Blog&color=FF5722&logo=Blogger&logoColor=white&labelColor=000605"></a>&nbsp
+  <a href="https://sjin110550.duckdns.org"><img src="https://img.shields.io/static/v1?label=&message=Blog&color=FF5722&logo=Blogger&logoColor=white&labelColor=FF5722"></a>&nbsp
 </p>
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 

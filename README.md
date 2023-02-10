@@ -91,4 +91,4 @@
   </a>
 </p>
 
-<img src = "https://user-images.githubusercontent.com/76959621/211150504-e0b86bca-5b43-4d52-a620-60722ec763cd.jpg" width=1000>
+<img src = "https://user-images.githubusercontent.com/76959621/211150504-e0b86bca-5b43-4d52-a620-60722ec763cd.jpg" width=100%>

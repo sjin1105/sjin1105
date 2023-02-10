@@ -9,10 +9,10 @@
   <a href="#"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsjin1105&count_bg=%2300F3FF&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"/></a>&nbsp
   <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/IDE-VSCode-%23007ACC?style=flat-square&logo=Visual-studio-code&logoColor=white"></a>&nbsp 
   <a href="https://insider.windows.com/en-us/insidewindows11"><img src="https://img.shields.io/badge/Window-11-%23007ACC?style=flat-square&logo=windows&logoColor=white"></a>&nbsp 
-  <a href="https://ubuntu.com/"><https://img.shields.io/ubuntu/v/ubuntu-wallpapers/focal?color=%23E95420&label=Ubuntu&logo=Ubuntu&logoColor=white"></a>&nbsp
+  <a href="https://ubuntu.com/"><img src=https://img.shields.io/ubuntu/v/ubuntu-wallpapers/focal?color=%23E95420&label=Ubuntu&logo=Ubuntu&logoColor=white"></a>&nbsp
 </p>
 <p align="center">
-  <a href="mailto:sjin110550@gmail.com"><img alt="Ubuntu package" src="https://img.shields.io/ubuntu/v/ubuntu-wallpapers/focal?color=%23E95420&label=Ubuntu&logo=Ubuntu&logoColor=white"></a>&nbsp
+  <a href="mailto:sjin110550@gmail.com"><img src="img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"></a>&nbsp
 </p>
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 

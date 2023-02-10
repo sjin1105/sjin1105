@@ -12,7 +12,7 @@
   <a href="https://ubuntu.com/"><https://img.shields.io/ubuntu/v/ubuntu-wallpapers/focal?color=%23E95420&label=Ubuntu&logo=Ubuntu&logoColor=white"></a>&nbsp 
 </p>
 <p align="center">
-  <a href="mailto:sjin110550@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"></a>&nbsp
+  <a href="mailto:sjin110550@gmail.com"><img alt="Ubuntu package" src="https://img.shields.io/ubuntu/v/ubuntu-wallpapers/focal?color=%23E95420&label=Ubuntu&logo=Ubuntu&logoColor=white"></a>&nbsp
 </p>
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 

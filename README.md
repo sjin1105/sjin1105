@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=350&text=[%20sjin1105%20]&desc=DevOps%20Enginer&descSize=35&descAlignY=20&descAlign=23&fontAlign=35&fontAlignY=50&color=0:006494,100:1D1E23&fontColor=FFFFFF&fontSize=90&stroke=FFFFFF&strokeWidth=1)
+<img src = "https://capsule-render.vercel.app/api?type=waving&height=350&text=[%20sjin1105%20]&desc=DevOps%20Enginer&descSize=35&descAlignY=20&descAlign=23&fontAlign=35&fontAlignY=50&color=0:006494,100:1D1E23&fontColor=FFFFFF&fontSize=90&stroke=FFFFFF&strokeWidth=1" width=100%>
 
 ### Hello 👋
 

@@ -80,14 +80,14 @@
 <h3 align="center">💡 My Most Used Languages 💡</h3>
 <p align="center">
   <a href="https://github.com/sjin1105">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=sjin1105&show_icons=true" width=100%>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=sjin1105&show_icons=true" width=40%>
   </a>
 </p>
 
 <h3 align="center">💡 My Git Stats 💡</h3>
 <p align="center">
   <a href="https://github.com/sjin1105">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sjin1105&layout=compact&show_icons=true&show_owner=true&hide_title=false&theme=nord" width=100%>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sjin1105&layout=compact&show_icons=true&show_owner=true&hide_title=false&theme=nord" width=40%>
   </a>
 </p>
 

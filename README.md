@@ -1,7 +1,8 @@
 <img src = "https://capsule-render.vercel.app/api?type=waving&width=100%&height=300&text=[%20sjin1105%20]&desc=DevOps%20Enginer&descSize=35&descAlignY=20&descAlign=23&fontAlign=35&fontAlignY=50&color=0:006494,100:1D1E23&fontColor=FFFFFF&fontSize=90&stroke=FFFFFF&strokeWidth=1">
 
-### Hello 👋
+[![.github/workflows/Gist_update.yml](https://github.com/sjin1105/sjin1105/actions/workflows/Gist_update.yml/badge.svg?branch=main)](https://github.com/sjin1105/sjin1105/actions/workflows/Gist_update.yml)
 
+### Hello 👋
 
 - 저는 DevOps Enginer를 꿈꾸는 '이승진' 입니다. 😃
 

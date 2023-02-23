@@ -15,7 +15,7 @@
 <p align="center">
   <a href="mailto:sjin110550@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"></a>&nbsp
   <a href="https://sjin1105.site" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=Blog&color=FF5722&logo=Blogger&logoColor=white&labelColor=FF5722"></a>&nbsp
-  ![.github/workflows/Gist_update.yml](https://github.com/sjin1105/sjin1105/actions/workflows/Gist_update.yml/badge.svg)
+  <a href="#" target="_blank"><img src="https://github.com/sjin1105/sjin1105/actions/workflows/Gist_update.yml/badge.svg"></a>&nbsp
 </p>
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 

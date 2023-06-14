@@ -58,7 +58,11 @@
   - 📝 CCCR에서 기업 멤버십 SW 캠프_CAB TA 1기를 수료하였습니다. (2022.07 ~ 2023.02)
     - DevOps & SRE 엔지니어 부트 캠프
     - 한국클라우드컴퓨팅연구조합과 14개 멤버십 기업
-    
+
+<h3 align="center">🚀 Work 🚀</h3>
+  - 🏦 GnetSystem에서 Embedded Embedded Software Engineer로 일하고 있습니다. (2023.06 ~ )
+
+
 <h3 align="center">✅ Work ✅</h3>
 
 - ❓❓

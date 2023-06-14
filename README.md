@@ -60,6 +60,7 @@
     - 한국클라우드컴퓨팅연구조합과 14개 멤버십 기업
 
 <h3 align="center">🚀 Work 🚀</h3>
+
   - 🏦 GnetSystem에서 Embedded Embedded Software Engineer로 일하고 있습니다. (2023.06 ~ )
 
 

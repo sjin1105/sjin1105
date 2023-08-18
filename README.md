@@ -61,7 +61,7 @@
 
 <h3 align="center">🚀 Work 🚀</h3>
 
-  - 🏦 GnetSystem에서 Embedded Embedded Software Engineer로 일하고 있습니다. (2023.06 ~ )
+  - <a href="https://www.gnetsystem.com">🏦 GnetSystem</a>에서 Embedded Software Engineer로 일하고 있습니다. (2023.06 ~ )
 
 
 <h3 align="center">✅ Work ✅</h3>

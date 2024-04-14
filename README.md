@@ -1,7 +1,6 @@
 <img src = "https://capsule-render.vercel.app/api?type=waving&width=100%&height=300&text=[%20sjin1105%20]&desc=DevOps%20Enginer&descSize=35&descAlignY=20&descAlign=23&fontAlign=35&fontAlignY=50&color=0:006494,100:1D1E23&fontColor=FFFFFF&fontSize=90&stroke=FFFFFF&strokeWidth=1">
 
 <!-- [![.github/workflows/Gist_update.yml](https://github.com/sjin1105/sjin1105/actions/workflows/Gist_update.yml/badge.svg?branch=main)](https://github.com/sjin1105/sjin1105/actions/workflows/Gist_update.yml) -->
-[![Better Stack Badge](https://uptime.betterstack.com/status-badges/v1/monitor/zraz.svg)](https://uptime.betterstack.com/?utm_source=status_badge)
 
 ### Hello 👋
 
@@ -12,7 +11,9 @@
   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.shields.io/badge/IDE-VSCode-%23007ACC?style=flat-square&logo=Visual-studio-code&logoColor=white"></a>&nbsp 
   <a href="https://insider.windows.com/en-us/insidewindows11" target="_blank"><img src="https://img.shields.io/badge/Window-11-%23007ACC?style=flat-square&logo=windows&logoColor=white"></a>&nbsp 
   <a href="https://ubuntu.com/" target="_blank"><img alt="Ubuntu package" src="https://img.shields.io/ubuntu/v/ubuntu-wallpapers/focal?color=%23E95420&label=Ubuntu&logo=Ubuntu&logoColor=white"></a>&nbsp
+  <a href="https://sjin1105.com/" target="_blank"><img alt="My Home Page" src="https://uptime.betterstack.com/status-badges/v1/monitor/zraz.svg"></a>&nbsp
 </p>
+
     
 <p align="center">
   <a href="mailto:sjin110550@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"></a>&nbsp

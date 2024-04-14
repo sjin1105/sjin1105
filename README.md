@@ -1,6 +1,7 @@
 <img src = "https://capsule-render.vercel.app/api?type=waving&width=100%&height=300&text=[%20sjin1105%20]&desc=DevOps%20Enginer&descSize=35&descAlignY=20&descAlign=23&fontAlign=35&fontAlignY=50&color=0:006494,100:1D1E23&fontColor=FFFFFF&fontSize=90&stroke=FFFFFF&strokeWidth=1">
 
-[![.github/workflows/Gist_update.yml](https://github.com/sjin1105/sjin1105/actions/workflows/Gist_update.yml/badge.svg?branch=main)](https://github.com/sjin1105/sjin1105/actions/workflows/Gist_update.yml)
+<!-- [![.github/workflows/Gist_update.yml](https://github.com/sjin1105/sjin1105/actions/workflows/Gist_update.yml/badge.svg?branch=main)](https://github.com/sjin1105/sjin1105/actions/workflows/Gist_update.yml) -->
+[![Better Stack Badge](https://uptime.betterstack.com/status-badges/v1/monitor/zraz.svg)](https://uptime.betterstack.com/?utm_source=status_badge)
 
 ### Hello 👋
 

@@ -11,13 +11,12 @@
   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.shields.io/badge/IDE-VSCode-%23007ACC?style=flat-square&logo=Visual-studio-code&logoColor=white"></a>&nbsp 
   <a href="https://insider.windows.com/en-us/insidewindows11" target="_blank"><img src="https://img.shields.io/badge/Window-11-%23007ACC?style=flat-square&logo=windows&logoColor=white"></a>&nbsp 
   <a href="https://ubuntu.com/" target="_blank"><img alt="Ubuntu package" src="https://img.shields.io/ubuntu/v/ubuntu-wallpapers/focal?color=%23E95420&label=Ubuntu&logo=Ubuntu&logoColor=white"></a>&nbsp
-  <a href="https://sjin1105.com/" target="_blank"><img alt="My Home Page" src="https://uptime.betterstack.com/status-badges/v1/monitor/zraz.svg"></a>&nbsp
 </p>
 
     
 <p align="center">
   <a href="mailto:sjin110550@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"></a>&nbsp
-  <a href="https://sjin1105.site" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=Blog&color=FF5722&logo=Blogger&logoColor=white&labelColor=FF5722"></a>&nbsp
+  <a href="https://sjin1105.com/" target="_blank"><img alt="My Home Page" src="https://uptime.betterstack.com/status-badges/v1/monitor/zraz.svg"></a>&nbsp
 </p>
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 

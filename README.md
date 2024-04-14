@@ -2,6 +2,7 @@
 
 <!-- [![.github/workflows/Gist_update.yml](https://github.com/sjin1105/sjin1105/actions/workflows/Gist_update.yml/badge.svg?branch=main)](https://github.com/sjin1105/sjin1105/actions/workflows/Gist_update.yml) -->
 [![Better Stack Badge](https://uptime.betterstack.com/status-badges/v1/monitor/zraz.svg)](https://uptime.betterstack.com/?utm_source=status_badge)
+[![Better Stack Badge](https://uptime.betterstack.com/status-badges/v1/monitor/zraz.svg)](https://uptime.betterstack.com/?utm_source=status_badge)
 
 ### Hello 👋
 

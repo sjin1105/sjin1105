@@ -16,7 +16,7 @@
     
 <p align="center">
   <a href="mailto:sjin110550@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"></a>&nbsp
-  <a href="https://sjin1105.com/" target="_blank" rel="noopener noreferrer"><img alt="My Home Page" src="https://uptime.betterstack.com/status-badges/v1/monitor/zraz.svg"></a>&nbsp
+  <a href="https://sjin1105.com/" target="_blank"><img alt="My Home Page" src="https://uptime.betterstack.com/status-badges/v1/monitor/zraz.svg"></a>&nbsp
 </p>
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 

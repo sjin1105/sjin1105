@@ -48,7 +48,7 @@
 <br>
 
 - 🔧 컨테이너 생태계인 **Docker** 와 **Kubernetes**를 다룰수 있습니다.
-- 💬 프로그래밍 언어로는 **Python / C** 등을 쓸수 있습니다.
+- 💬 프로그래밍 언어로는 **Python / C / C++** 등을 쓸수 있습니다.
 - ✔  활용할 줄 아는 프레임워크는 **Python - Django**가 있습니다
 - 🔎 그 이외로는 사용 가능한 분류로는 다음과 같습니다.
   - **자동화**(Ansible, Vagrant)
@@ -65,7 +65,7 @@
 
 <h3 align="center">🚀 Work 🚀</h3>
 
-  - <a href="https://www.gnetsystem.com">🏦 GnetSystem</a>에서 Embedded Software Engineer로 일하고 있습니다. (2023.06 ~ )
+  - <a href="https://www.gnetsystem.com">🏦 GnetSystem</a>에서 Embedded Software Engineer로 일하고 있습니다. (2023.05 ~ )
 
 
 <h3 align="center">✅ Work ✅</h3>

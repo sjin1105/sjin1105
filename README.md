@@ -5,7 +5,7 @@
 - 저는 Embedded Software Enginer를 꿈꾸는 '이승진' 입니다. 😃
 
 <p align="center">
-  <a href="#"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsjin1105&count_bg=%2300F3FF&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"/></a>&nbsp;
+  <a href="https://hits.sh/github.com/sjin1105/"><img alt="Hits" src="https://hits.sh/github.com/sjin1105.svg?style=flat-square&label=hits&color=00F3FF"/></a>&nbsp;
   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.shields.io/badge/IDE-VSCode-%23007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"></a>&nbsp;
   <a href="https://insider.windows.com/en-us/insidewindows11" target="_blank"><img src="https://img.shields.io/badge/Window-11-%23007ACC?style=flat-square&logo=windows&logoColor=white"></a>&nbsp;
   <a href="https://ubuntu.com/" target="_blank"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"></a>&nbsp;

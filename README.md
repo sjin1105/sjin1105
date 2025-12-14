@@ -65,8 +65,8 @@
 
 <h3 align="center">🚀 Work 🚀</h3>
 
-  - <a href="https://www.gnetsystem.com">🏦 GnetSystem</a>에서 Embedded Software Engineer로 일하고 있습니다. (2023.05 ~ )
-
+  - <a href="https://www.gnetsystem.com">🏦 GnetSystem</a>에서 Embedded Software Engineer로 일하고 있습니다. (2023.05 ~ 2025.02)
+  - <a href="http://amtel.co.kr">🏦 AM</a>에서 Embedded Software Engineer로 일하고 있습니다. (2025.02 ~ )
 
 <h3 align="center">✅ Work ✅</h3>
 
